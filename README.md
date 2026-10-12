@@ -7,6 +7,6 @@ This repository contains the schedule and materials for the ALLab reading group.
 |----------|---------------|-----------|
 |21.10.2026| Can Erer | |
 |04.11.2026| Arda Arslan | |
-|18.10.2026| İrem Urhan | |
+|18.11.2026| İrem Urhan | |
 |02.12.2026| Efekan Kavalcı | |
 |16.12.2026| Ömer Tuncay | |
